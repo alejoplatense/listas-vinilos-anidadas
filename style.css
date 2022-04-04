@@ -1,0 +1,64 @@
+
+* {
+    box-sizing: border-box;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri,
+    'Trebuchet MS', sans-serif;
+    
+}
+#container {
+    width: 800px;
+    height: auto;
+    position:relative;
+    top: auto;
+    left: auto;
+}
+.header {
+    width: 100%;
+    max-width: 800px;
+    height: auto;
+    float: center;
+    color: #333;
+    margin-top: 4px;
+}
+
+.div1 {
+    background-color: rgb(243, 226, 226);
+    width: 100%;
+    max-width: 800px;
+    padding: 2px 30px 5px 5px;
+    opacity: 0.9;
+}
+.div2 {
+    background-color: rgb(196, 245, 245);
+    width: 100%;
+    max-width: 800px;
+    padding: 2px 30px 5px 5px;
+    opacity: 0.9;
+}
+.div3 {
+    background-color: rgb(241, 241, 204);
+    width: 100%;
+    max-width: 800px;
+    padding: 2px 30px 5px 5px;
+    opacity: 0.9;
+}
+
+#font-size {
+    font-size: 18px;
+}
+
+
+h1 {
+    padding: 0 20px 0 20px;
+}
+h2 {
+    padding: 0 0 0 20px;
+}
+body {
+    margin: 35px 35px;
+    background-image: url(Puntitos_trama.jpg);
+
+}
+ul {
+    list-style-image: url('circulo-01.png');
+  }
